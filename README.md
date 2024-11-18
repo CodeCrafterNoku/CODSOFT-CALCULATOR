@@ -7,15 +7,10 @@
 </h2>
 <div align="center">
  <p align="center">
-  <img src="vscode/OnBoarding1.jpg" alt="Image 1" width="300"/>
-  <img src="assets/OnBoarding2.jpg" alt="Image 2" width="300"/>
-  <img src="assets/OnBoarding3.jpg" alt="Image 2" width="300"/>
-  <img src="assets/SignUp.jpg" alt="Image 2" width="300"/>
-  <img src="assets/Routines.jpg" alt="Image 2" width="300"/>
-  <img src="assets/Link Devices.jpg" alt="Image 2" width="300"/>
-  <img src="assets/Defeene Videos.jpg" alt="Image 2" width="300"/>
-  <img src="assets/HomeScreen.jpg" alt="Image 2" width="300"/>
-  <img src="assets/Emergency Contact.jpg" alt="Image 2" width="300"/>
+  <img src=".vscode/Screenshot from 2024-11-14 11-32-10.png" alt="Image 1" width="300"/>
+  <img src=".vscode/Screenshot from 2024-11-14 11-31-10.png" alt="Image 1" width="300"/>
+
+
 </p>
 </div>
 
